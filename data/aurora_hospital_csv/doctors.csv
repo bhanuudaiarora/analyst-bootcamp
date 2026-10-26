@@ -1,0 +1,27 @@
+doctor_id,doctor_name,dept_id,designation,join_date,consultation_fee
+1,Dr Ananya Chopra,1,Senior Consultant,2017-07-03,1000
+2,Dr Sneha Verma,1,Consultant,2021-08-15,800
+3,Dr Ananya Iyer,1,Consultant,2020-08-31,1000
+4,Dr Tanvi Kumar,1,Consultant,2017-06-21,1200
+5,Dr Shruti Sharma,1,Consultant,2018-10-25,1200
+6,Dr Aishwarya Banerjee,1,Senior Consultant,2016-01-15,800
+7,Dr Swati Singh,1,Consultant,2024-01-19,1000
+8,Dr Lakshmi Bhat,1,Consultant,2015-11-19,1200
+9,Dr Anjali Naidu,2,HOD,2021-06-22,1000
+10,Dr Kavya Reddy,2,Consultant,2015-11-23,1000
+11,Dr Manoj Nair,2,Associate Consultant,2020-02-01,1000
+12,Dr Swati Gowda,2,Senior Consultant,2017-05-08,1000
+13,Dr Bhavana Verma,3,Consultant,2022-02-13,1500
+14,Dr Keerthi Patel,3,Consultant,2019-04-04,1200
+15,Dr Gayatri Naidu,3,Consultant,2022-09-05,1000
+16,Dr Roshni Banerjee,4,Consultant,2024-03-20,1000
+17,Dr Ritu Khan,4,Senior Consultant,2017-05-14,800
+18,Dr Aman Mishra,4,Senior Consultant,2022-05-08,1000
+19,Dr Pallavi Naidu,4,Associate Consultant,2017-12-20,1000
+20,Dr Keerthi Bhat,4,Consultant,2023-05-18,1000
+21,Dr Pallavi Agarwal,4,Associate Consultant,2017-06-17,1000
+22,Dr Vikram Das,5,Associate Consultant,2023-06-23,800
+23,Dr Sneha Rao,5,Consultant,2021-09-08,1200
+24,Dr Neha Kulkarni,5,Associate Consultant,2017-10-26,1500
+25,Dr Manoj Sharma,6,Consultant,2023-06-03,1500
+26,Dr Ayesha Gupta,6,Consultant,2019-11-16,1000

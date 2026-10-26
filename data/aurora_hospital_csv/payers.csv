@@ -1,0 +1,8 @@
+payer_id,payer_name,payer_type
+1,Self Pay,Cash
+2,Sunrise Health Insurance,Insurance
+3,Bharat General Insurance,Insurance
+4,MediAssist TPA,TPA
+5,Vidal TPA,TPA
+6,TechCorp India (Corporate),Corporate
+7,Infra Systems Ltd (Corporate),Corporate

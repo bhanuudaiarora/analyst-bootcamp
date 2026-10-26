@@ -1,0 +1,11 @@
+package_id,package_name,dept_id,package_price
+1,Normal Delivery - Twin Sharing,1,85000
+2,Normal Delivery - Single,1,115000
+3,C-Section - Twin Sharing,1,140000
+4,C-Section - Single,1,180000
+5,C-Section - Suite,1,260000
+6,IVF Cycle,3,165000
+7,IUI Cycle,3,18000
+8,Laparoscopic Hysterectomy,2,150000
+9,Fetal Medicine Scan Bundle,6,22000
+10,Antenatal Care Bundle,1,35000
